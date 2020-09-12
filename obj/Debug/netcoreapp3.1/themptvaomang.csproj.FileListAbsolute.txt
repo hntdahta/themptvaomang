@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\themptvaomang\bin\Debug\netcoreapp3.1\themptvaomang.exe
+C:\Users\Administrator\source\repos\themptvaomang\bin\Debug\netcoreapp3.1\themptvaomang.deps.json
+C:\Users\Administrator\source\repos\themptvaomang\bin\Debug\netcoreapp3.1\themptvaomang.runtimeconfig.json
+C:\Users\Administrator\source\repos\themptvaomang\bin\Debug\netcoreapp3.1\themptvaomang.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\themptvaomang\bin\Debug\netcoreapp3.1\themptvaomang.dll
+C:\Users\Administrator\source\repos\themptvaomang\bin\Debug\netcoreapp3.1\themptvaomang.pdb
+C:\Users\Administrator\source\repos\themptvaomang\obj\Debug\netcoreapp3.1\themptvaomang.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\themptvaomang\obj\Debug\netcoreapp3.1\themptvaomang.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\themptvaomang\obj\Debug\netcoreapp3.1\themptvaomang.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\themptvaomang\obj\Debug\netcoreapp3.1\themptvaomang.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\themptvaomang\obj\Debug\netcoreapp3.1\themptvaomang.dll
+C:\Users\Administrator\source\repos\themptvaomang\obj\Debug\netcoreapp3.1\themptvaomang.pdb
+C:\Users\Administrator\source\repos\themptvaomang\obj\Debug\netcoreapp3.1\themptvaomang.genruntimeconfig.cache
